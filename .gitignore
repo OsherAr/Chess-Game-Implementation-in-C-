@@ -1,0 +1,4 @@
+vs/
+out/
+Chess/.idea
+Chess/cmake-build-debug-mingw
